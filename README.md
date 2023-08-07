@@ -10,13 +10,13 @@ Classical dynamic accounts of anaphora rely on logical operators arbitrarily man
 
 ## Schedule
 
-### Day 1: Introduction to dynamic semantics
+### Unit 1: Introduction to dynamic semantics
 
-### Day 2: Negation and disjunction in dynamic semantics
+### Unit 2: Negation and disjunction in dynamic semantics
 
-### Day 3: Bilateral Dynamic Semantics
+### Unit 3: Bilateral Dynamic Semantics
 
-### Day 4: Counterfactual anaphora and intensional dynamic semantics
+### Unit 4: Counterfactual anaphora and intensional dynamic semantics
  
-### Day 5: TBC
+### Unit 5: TBC
 
