@@ -12,11 +12,15 @@ Classical dynamic accounts of anaphora rely on logical operators arbitrarily man
 
 ### Unit 1: Introduction to dynamic semantics
 
+- Readings:
+  * Groenendijk & Stokhof (1991) "Dynamic Predicate Logic"
+  * Gillies (2022) "On Groenendijk and Stokhof's 'Dynamic Predicate Logic'"
+
 ### Unit 2: Negation and disjunction in dynamic semantics
 
 ### Unit 3: Bilateral Dynamic Semantics
 
 ### Unit 4: Counterfactual anaphora and intensional dynamic semantics
  
-### Unit 5: TBC
+### Unit 5: Extensions and discussion
 
