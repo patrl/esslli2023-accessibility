@@ -39,7 +39,8 @@ We introduce a bilateral dynamic semantic fragment that allows us to address how
 We introduce an intensional dynamic semantic fragment that allows us to address anaphora with counterfactual antecedents, now we should be able to capture out counterexamples to the classic dynamic generalization.
 
 - Recommended readings:
-  * Hofmann (2019) “The anaphoric potential of indefinites under negation and disjunction”.
+  * Hofmann (2019) “The anaphoric potential of indefinites under negation and disjunction”. (Conference paper)
+  * Hofmann (2022) “Anaphora & Negation”. (Dissertation)
   * Stone (1999). “Reference to Possible Worlds”.
  
 ### Unit 5: Spill-over and discussion
